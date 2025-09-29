@@ -1,6 +1,6 @@
 # The strength and independence of a modern Moroccan woman
 ## ✨ Key Features
-## <a href="https://ugc-design.github.io/ugc6/" target="_blank" rel="noopener">DEMO</a>
+## [DEMO](https://ugc-design.github.io/ugc6/  )
 ### 🎨 Cultural & Design Elements
 - **Moroccan Color Palette**: Deep red (`#c1272d`), vibrant blue (`#1e3a8a`), and gold accents (`#d4af37`) symbolizing strength and independence  
 - **Arabic Typography**: Uses [Tajawal](https://fonts.google.com/specimen/Tajawal) font, optimized for Arabic readability  
